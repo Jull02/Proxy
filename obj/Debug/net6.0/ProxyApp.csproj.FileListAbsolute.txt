@@ -1,0 +1,15 @@
+D:\UDLA\Quinto Semestre\Modelado\ProxyApp\bin\Debug\net6.0\ProxyApp.exe
+D:\UDLA\Quinto Semestre\Modelado\ProxyApp\bin\Debug\net6.0\ProxyApp.deps.json
+D:\UDLA\Quinto Semestre\Modelado\ProxyApp\bin\Debug\net6.0\ProxyApp.runtimeconfig.json
+D:\UDLA\Quinto Semestre\Modelado\ProxyApp\bin\Debug\net6.0\ProxyApp.dll
+D:\UDLA\Quinto Semestre\Modelado\ProxyApp\bin\Debug\net6.0\ProxyApp.pdb
+D:\UDLA\Quinto Semestre\Modelado\ProxyApp\obj\Debug\net6.0\ProxyApp.csproj.AssemblyReference.cache
+D:\UDLA\Quinto Semestre\Modelado\ProxyApp\obj\Debug\net6.0\ProxyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\UDLA\Quinto Semestre\Modelado\ProxyApp\obj\Debug\net6.0\ProxyApp.AssemblyInfoInputs.cache
+D:\UDLA\Quinto Semestre\Modelado\ProxyApp\obj\Debug\net6.0\ProxyApp.AssemblyInfo.cs
+D:\UDLA\Quinto Semestre\Modelado\ProxyApp\obj\Debug\net6.0\ProxyApp.csproj.CoreCompileInputs.cache
+D:\UDLA\Quinto Semestre\Modelado\ProxyApp\obj\Debug\net6.0\ProxyApp.dll
+D:\UDLA\Quinto Semestre\Modelado\ProxyApp\obj\Debug\net6.0\refint\ProxyApp.dll
+D:\UDLA\Quinto Semestre\Modelado\ProxyApp\obj\Debug\net6.0\ProxyApp.pdb
+D:\UDLA\Quinto Semestre\Modelado\ProxyApp\obj\Debug\net6.0\ProxyApp.genruntimeconfig.cache
+D:\UDLA\Quinto Semestre\Modelado\ProxyApp\obj\Debug\net6.0\ref\ProxyApp.dll
